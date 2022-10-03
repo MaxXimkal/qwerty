@@ -1,0 +1,15 @@
+C:\Users\MaxX\Desktop\Repo\Examples\Exam\Hello_world_console\bin\Debug\net6.0\Hello_world_console.exe
+C:\Users\MaxX\Desktop\Repo\Examples\Exam\Hello_world_console\bin\Debug\net6.0\Hello_world_console.deps.json
+C:\Users\MaxX\Desktop\Repo\Examples\Exam\Hello_world_console\bin\Debug\net6.0\Hello_world_console.runtimeconfig.json
+C:\Users\MaxX\Desktop\Repo\Examples\Exam\Hello_world_console\bin\Debug\net6.0\Hello_world_console.dll
+C:\Users\MaxX\Desktop\Repo\Examples\Exam\Hello_world_console\bin\Debug\net6.0\Hello_world_console.pdb
+C:\Users\MaxX\Desktop\Repo\Examples\Exam\Hello_world_console\obj\Debug\net6.0\Hello_world_console.csproj.AssemblyReference.cache
+C:\Users\MaxX\Desktop\Repo\Examples\Exam\Hello_world_console\obj\Debug\net6.0\Hello_world_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MaxX\Desktop\Repo\Examples\Exam\Hello_world_console\obj\Debug\net6.0\Hello_world_console.AssemblyInfoInputs.cache
+C:\Users\MaxX\Desktop\Repo\Examples\Exam\Hello_world_console\obj\Debug\net6.0\Hello_world_console.AssemblyInfo.cs
+C:\Users\MaxX\Desktop\Repo\Examples\Exam\Hello_world_console\obj\Debug\net6.0\Hello_world_console.csproj.CoreCompileInputs.cache
+C:\Users\MaxX\Desktop\Repo\Examples\Exam\Hello_world_console\obj\Debug\net6.0\Hello_world_console.dll
+C:\Users\MaxX\Desktop\Repo\Examples\Exam\Hello_world_console\obj\Debug\net6.0\refint\Hello_world_console.dll
+C:\Users\MaxX\Desktop\Repo\Examples\Exam\Hello_world_console\obj\Debug\net6.0\Hello_world_console.pdb
+C:\Users\MaxX\Desktop\Repo\Examples\Exam\Hello_world_console\obj\Debug\net6.0\Hello_world_console.genruntimeconfig.cache
+C:\Users\MaxX\Desktop\Repo\Examples\Exam\Hello_world_console\obj\Debug\net6.0\ref\Hello_world_console.dll
